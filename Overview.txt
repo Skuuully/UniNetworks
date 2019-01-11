@@ -1,0 +1,10 @@
+Client can connect to FS and DS on ports, 12000 and 11000
+On connection diffie hellman exchange takes place
+On connection decides what encryption to use(always caesar)
+caesar is found in ecnryption class, does not stick to alphabet simply adds to all chars
+Able to createuser by authenticate class
+Able to upload file via uploader
+Able to download file via downloader
+Both DS and FS function the same, DS should be used for login, FS for upload/download
+User class handles users
+Password is never stored, format is saved as USERNAME@SALT@HASH

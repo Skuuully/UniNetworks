@@ -1,0 +1,14 @@
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\DirectoryServer\DirectoryServer\obj\Debug\DirectoryServer.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\DirectoryServer\DirectoryServer\bin\Debug\DirectoryServer.exe.config
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\DirectoryServer\DirectoryServer\bin\Debug\DirectoryServer.exe
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\DirectoryServer\DirectoryServer\bin\Debug\DirectoryServer.pdb
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\DirectoryServer\DirectoryServer\obj\Debug\DirectoryServer.exe
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\DirectoryServer\DirectoryServer\obj\Debug\DirectoryServer.pdb
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\DirectoryServer\DirectoryServer\obj\Debug\DirectoryServer.csprojAssemblyReference.cache
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\DirectoryServer\DirectoryServer\bin\Debug\DirectoryServer.exe.config
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\DirectoryServer\DirectoryServer\bin\Debug\DirectoryServer.exe
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\DirectoryServer\DirectoryServer\bin\Debug\DirectoryServer.pdb
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\DirectoryServer\DirectoryServer\obj\Debug\DirectoryServer.csprojAssemblyReference.cache
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\DirectoryServer\DirectoryServer\obj\Debug\DirectoryServer.csproj.CoreCompileInputs.cache
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\DirectoryServer\DirectoryServer\obj\Debug\DirectoryServer.exe
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\DirectoryServer\DirectoryServer\obj\Debug\DirectoryServer.pdb

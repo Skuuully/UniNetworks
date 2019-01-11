@@ -1,0 +1,14 @@
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\Client\Client\bin\Debug\Client.exe
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\Client\Client\bin\Debug\Client.pdb
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\Client\Client\obj\Debug\Client.exe
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\Client\Client\obj\Debug\Client.pdb
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\Client\Client\bin\Debug\Client.exe.config
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\Client\Client\bin\Debug\Client.exe
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\Client\Client\bin\Debug\Client.pdb
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\Client\Client\obj\Debug\Client.exe
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\Client\Client\obj\Debug\Client.pdb
+\\university.ds.derby.ac.uk\dfs\Student\Home\100444144\Year2\Networks\Assignment\Assignment\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Ryan Skull\Documents\0_University\Year2\Networks\Assignment\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
